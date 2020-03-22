@@ -1,0 +1,77 @@
+{
+
+  "ROSE" = "Rose";
+
+  "LIGHT" = "Könnyû";
+  "MEDIUM" = "Közepes";
+  "HEAVY" = "Nehéz";
+  "SOFT" = "Lágy";
+  "RIGID" = "Szigorú";
+  "STRONG" = "Erõs";
+  "DEFAULT" = "Alapértelmezett";
+  "CUSTOM" = "Egyedi";
+
+  "TAPTIC_ENGINE_STRENGTH" = "Taptic Engine Erõssége";
+  "IPHONE_7_OR_7PLUS_AND_UP" = "iPhone 7/7+ És Felette";
+  "USE_TAPTIC_ENGINE" = "Taptic Engine Használata";
+
+  "HAPTIC_ENGINE_STRENGTH" = "Haptic Engine Erõssége";
+  "IPHONE_6S_OR_6SPLUS" = "iPhone 6s/6s+";
+  "USE_HAPTIC_ENGINE" = "Haptic Engine Használata";
+
+  "LEGACY_SUPPORT" = "Legacy Támogatás";
+  "IPHONE_SE_OR_6_AND_SO_FAR" = "iPhone SE/6..";
+  "USE_LEGACY_ENGINE" = "Legacy Engine Használata";
+  "CUSTOM_LEGACY_SETTINGS" = "Egyedi Legacy Beállítások";
+  
+  "HAPTIC_FEEDBACK_OPTIONS" = "Haptic Visszajelzés Beállításai";
+  
+  "HOMESCREEN" = "Fõképernyõ";
+  "LOCKSCREEN" = "Zárolt Képernyõ";
+  "ANYWHERE" = "Bárhol";
+  "HARDWARE_BUTTONS" = "Hardware Gombok";
+  "CONTROL_CENTER" = "Vezérlõközpont";
+  "STATUS_CHANGES" = "Állapotváltozások";
+  "OTHER_HARDWARE_ACTIONS" = "Egyéb Hardware Mûveletek";
+  "SYSTEM_WIDE" = "Egész Rendszerre Kiterjedõ";
+  "APPLICATIONS" = "Alkalmazások";
+  "EXCEPTIONS" = "Kivételek";
+  "ADDITIONALS" = "Kiegészítõk";
+
+  "HAPTIC_DELAY_IN_SECONDS" = "Haptic Késleltetés - Másodpercek";
+  "ENABLE_DELAY" = "Késleltetés Bekapcsolása";
+
+  "OTHER_OPTIONS" = "Egyéb Beállítások";
+  "RESPRING" = "Respring";
+  "RESET_PREFERENCES" = "Alapbeállítások Visszaállítása";
+  "SHOW_SETUP_AGAIN" = "Mutassa Újra A Telepítést";
+  
+  "SENDING_LOVE_TO" = "Szeretet Küldése";
+  "THANKS_KRITANTA_FOR_THE_PRETTY_TWITTER_CELLS" = "Köszönet kritanta-nak A Szép Twitter Cellákért";
+
+  "CONTRIBUTORS_CREDITS" = "Tesztelés És Lefordítás";
+  "CONTRIBUTORS" = "Közremûködõk";
+  "HELP_TRANSLATING_ROSE" = "Segíts Lefordítani a Rose-t";
+  
+  "GIVE_THESE_A_LOOK" = "Nézd Meg Ezeket";
+  "LUNE_DESCRIPTION" = "Hagyja, Hogy Egy Holdikon Jelenjen Meg, Amíg DND-ben Van";
+  "AESTEA_DESCRIPTION" = "Hiányzik A Krém? Próbálja ki az Aestea-t";
+  "BUTTERFLY_DESCRIPTION" = "Szövegválaszték, De Színesben";
+  
+  "SUPPORT_ME" = "Támogass Engem";
+  "ROSE_BY_LITTEN_
+ARTWORKS_BY_TAKI" = "Rose Litten Által
+Mûvek taki Által";
+
+  "LITTLE_DONATION_ðŸŒº" = "Little Támogatás ðŸŒº";
+  "APPRECIATED_ðŸ’˜" = "Nagyra Értékelem ðŸ’˜";
+  "FEATURE_REQUEST?_âœ¨" = "Funkciókérés? âœ¨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Küldj Nekem Egy E-mail-t A Kéréseddel";
+  "SOURCE_CODE_ðŸŒ™" = "Forráskód ðŸŒ™";
+  "ITS_ON_MY_GITHUB" = "A Github-on Megtalálható";
+  "FOUND_A_BUG?_ðŸŒ§" = "Találtál Egy Hibát? ðŸŒ§";
+  "LEAVE_A_BUG_REPORT_HERE" = "Hagyj Egy Hibajelentést Itt";
+  
+  "MADE_WITH_ðŸ’™" = "Készült ðŸ’™";
+
+}
