@@ -1,7 +1,7 @@
 {
 
-  "ENABLE_TIKTOK_SUPPORT" = "TikTok Támogatás Bekapcsolása";
-  "TIKTOK_SUPPORT" = "TikTok Támogatás";
+  "ENABLE_TIKTOK_SUPPORT" = "TikTok Támogatás";
+  "TIKTOK_SUPPORT" = "Részleg Bekapcsolása";
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszajelzés..";
 
