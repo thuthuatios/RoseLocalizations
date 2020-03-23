@@ -13,10 +13,10 @@
 
   "NONE" = "Nichts";
   "LIGHT_HAPTIC_ENGINE" = "Leicht: Haptic Engine";
-  "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Mittel: Haptic Engine";
   "HEAVY_HAPTIC_ENGINE" = "Start: Haptic Engine";
   "LIGHT_TAPTIC_ENGINE" = "Leicht: Taptic Engine";
-  "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Mittel: Taptic Engine";
   "STRONG_TAPTIC_ENGINE" = "Stark: Taptic Engine";
   "SOFT_TAPTIC_ENGINE" = "Sanft: Taptic Engine";
   "RIGID_TAPTIC_ENGINE" = "Starr: Taptic Engine";
