@@ -3,13 +3,13 @@
   "ENABLE_TIKTOK_SUPPORT" = "TikTok Támogatás Bekapcsolása";
   "TIKTOK_SUPPORT" = "TikTok Támogatás";
 
-  "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszalyelzés Amikor..";
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszalyelzés..";
 
-  "TAPPING_LIKE_COMMENT_OR_SHARE" = "Like, Komment Vagy Megosztás Megnyomása";
+  "TAPPING_LIKE_COMMENT_OR_SHARE" = "Like, Komment Vagy Megosztás Gomb Megnyomásakor";
 
-  "CUSTOM_STRENGTH_SETTINGS" = "Egyéni Erősség Beállítása";
+  "CUSTOM_STRENGTH_SETTINGS" = "Erősség Beállítása";
 
-  "CUSTOM_LIKE_COMMENT_SHARE_BUTTON_STRENGTH" = "Egyedi Like, Komment, Megosztás Gomb Erőssége";
+  "CUSTOM_LIKE_COMMENT_SHARE_BUTTON_STRENGTH" = "Like, Komment Vagy Megosztás Gomb Megnyomásakor";
 
   "NONE" = "Egyik Sem";
   "LIGHT_HAPTIC_ENGINE" = "Könnyű: Haptic Engine";
