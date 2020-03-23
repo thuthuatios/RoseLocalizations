@@ -3,7 +3,7 @@
   "ENABLE_LOCKSCREEN_SECTION" = "Zárolt Képernyõ Részleg";
   "ENABLE_SECTION" = "Részleg Bekapcsolása";
 
-  "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszalyelzés..";
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszajelzés..";
 
   "ENTERING_PASSCODE" = "Passcode Megadásakor";
   "PRESSING_QUICK_ACTIONS_BUTTON" = "Gyors Műveleti Gombok Lenyomásakor";
