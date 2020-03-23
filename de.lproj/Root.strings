@@ -3,12 +3,12 @@
   "ROSE" = "Rose";
 
   "LIGHT" = "Leicht";
-  "MEDIUM" = "Medium";
+  "MEDIUM" = "Mittel";
   "HEAVY" = "Stark";
   "SOFT" = "Sanft";
   "RIGID" = "Starr";
   "STRONG" = "Start";
-  "DEFAULT" = "Normal";
+  "DEFAULT" = "Standard";
   "CUSTOM" = "Eigenes";
 
   "TAPTIC_ENGINE_STRENGTH" = "Taptic Engine Stärke";
@@ -26,10 +26,10 @@
   
   "HAPTIC_FEEDBACK_OPTIONS" = "Haptisches Feedback Optionen";
   
-  "HOMESCREEN" = "Homescreen";
+  "HOMESCREEN" = "Home-Bildschirm";
   "LOCKSCREEN" = "Sperrbildschirm";
   "ANYWHERE" = "Überall";
-  "HARDWARE_BUTTONS" = "Hardware Knöpfe";
+  "HARDWARE_BUTTONS" = "Hardwareknöpfe";
   "CONTROL_CENTER" = "Kontrollzentrum";
   "STATUS_CHANGES" = "Status ändert sich";
   "OTHER_HARDWARE_ACTIONS" = "Andere Hardwareaktionen";
@@ -42,7 +42,7 @@
   "ENABLE_DELAY" = "Aktiviere Verzögerung";
 
   "OTHER_OPTIONS" = "Andere Optionen";
-  "RESPRING" = "Respring";
+  "RESPRING" = "Respringen";
   "RESET_PREFERENCES" = "Einstellungen zurücksetzen";
   "SHOW_SETUP_AGAIN" = "Zeige Einrichtung nochmal";
   
@@ -54,7 +54,7 @@
   "HELP_TRANSLATING_ROSE" = "Hilf mit Rose zu übersetzen";
 
   "GIVE_THESE_A_LOOK" = "Schau dir das mal an";
-  "LUNE_DESCRIPTION" = "Lass einen Mond erscheinen wenn Nicht Stören aktiviert ist";
+  "LUNE_DESCRIPTION" = "Lass einen Mondsymbol erscheinen wenn Nicht Stören aktiv ist";
   "AESTEA_DESCRIPTION" = "Vermisst du Sahne? Versuche Aestea";
   "BUTTERFLY_DESCRIPTION" = "Textauswahl, aber farbig";
   
@@ -64,9 +64,9 @@ ARTWORKS_BY_TAKI" = "Rose von Litten
 Kunstwerke von taki";
 
   "LITTLE_DONATION_🌺" = "Kleine Spende 🌺";
-  "APPRECIATED_💘" = "geschätzt 💘";
+  "APPRECIATED_💘" = "Geschätzt 💘";
   "FEATURE_REQUEST?_✨" = "Funktionsanfrage? ✨";
-  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Sende mir eine Email mit deiner Funktionsanfrage";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Sende mir eine Email mit deiner Anfrage";
   "SOURCE_CODE_🌙" = "Quellcode 🌙";
   "ITS_ON_MY_GITHUB" = "Es ist auf meinem Github";
   "FOUND_A_BUG?_🌧" = "Hast du einen Bug gefunden? 🌧";
