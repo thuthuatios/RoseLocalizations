@@ -6,7 +6,7 @@
   "MEDIUM" = "Medio";
   "HEAVY" = "Firme";
   "SOFT" = "Suave";
-  "RIGID" = "Rígido;
+  "RIGID" = "Rígido";
   "STRONG" = "Fuerte";
   "DEFAULT" = "Por Defecto";
   "CUSTOM" = "Personalizado";
