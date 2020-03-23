@@ -5,17 +5,17 @@
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszajelzés..";
 
-  "UNLOCKED_OR_NC" = "Feloldott";
-  "LOCKED" = "Lezárt";
-  "AUTHENTICATED_WITH_TOUCH_OR_FACEID" = "Hitelesítés Touch/FaceID-val";
-  "CALLL_CONNECTS_OR_DISCONNECTS" = "Call Connects/Disconnects";
+  "UNLOCKED_OR_NC" = "Feloldáskor";
+  "LOCKED" = "Lezáráskor";
+  "AUTHENTICATED_WITH_TOUCH_OR_FACEID" = "Touch/FaceID-val Való Hitelesítéskor";
+  "CALLL_CONNECTS_OR_DISCONNECTS" = "Híváskor";
 
   "CUSTOM_STRENGTH_SETTINGS" = "Erősségek Beállítása";
 
-  "CUSTOM_UNLOCK_STRENGTH" = "Feloldott";
-  "CUSTOM_LOCK_STRENGTH" = "Lezárt";
-  "CUSTOM_AUTHETICATION_STRENGTH" = "Hitelesítés";
-  "CUSTOM_CALL_STRENGTH" = "Hívás";
+  "CUSTOM_UNLOCK_STRENGTH" = "Feloldáskor";
+  "CUSTOM_LOCK_STRENGTH" = "Lezáráskor";
+  "CUSTOM_AUTHETICATION_STRENGTH" = "Hitelesítéskor";
+  "CUSTOM_CALL_STRENGTH" = "Híváskor";
 
   "NONE" = "Egyik Sem";
   "LIGHT_HAPTIC_ENGINE" = "Könnyű: Haptic Engine";
