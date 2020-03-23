@@ -5,17 +5,17 @@
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
 
-  "TAPPING_THE_JUMP_BAR" = "Auf die Springleiste tippen";
-  "TAPPING_THE_FLOATING_BUTTON" = "Auf die schwebenden Knöpfe tippen";
-  "TAPPING_MOST_ELEMENTS" = "Meisten Elemente tippen";
-  "TAPPING_UIBUTTON_ELEMENTS" = "UIButton Elemente tippen";
+  "TAPPING_THE_JUMP_BAR" = "Auf die Springleiste getippt wird";
+  "TAPPING_THE_FLOATING_BUTTON" = "Auf die schwebenden Knöpfe getippt wird";
+  "TAPPING_MOST_ELEMENTS" = "Die meisten Elemente getippt werden";
+  "TAPPING_UIBUTTON_ELEMENTS" = "UIButton Elemente getippt werden";
 
-  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+  "CUSTOM_STRENGTH_SETTINGS" = "Eigene Stärkeeinstellungen";
 
-  "CUSTOM_JUMP_BAR_STRENGTH" = "Custom Jump Bar Strength";
-  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Custom Floating Button Strength";
-  "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Custom Certain Elements Strength";
-  "CUSTOM_UIBUTTON_STRENGTH" = "Eigene Stärkeeinstellungen";
+  "CUSTOM_JUMP_BAR_STRENGTH" = "Eigene Springleiste Stärke";
+  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Eigene schwebenden Knöpfe Stärke";
+  "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Eigene bestimmte Elemente Stärke";
+  "CUSTOM_UIBUTTON_STRENGTH" = "Eigene UIButton Stärke";
 
   "NONE" = "Nichts";
   "LIGHT_HAPTIC_ENGINE" = "Leicht: Haptic Engine";

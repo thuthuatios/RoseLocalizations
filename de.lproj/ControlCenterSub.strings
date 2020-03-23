@@ -5,9 +5,9 @@
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
 
-  "TOGGLING_CONNECTIVITY_TOGGLE" = "Konnektivitätsschalter umstellen";
-  "OPENING_CONTROL_CENTER" = "Kontrollzentrum öffnen";
-  "TOGGLING_CC_MODULE" = "CC Modul umschalten (Experimentell)";
+  "TOGGLING_CONNECTIVITY_TOGGLE" = "Konnektivitätsschalter umgestellt wird";
+  "OPENING_CONTROL_CENTER" = "Kontrollzentrum geöffnet wird";
+  "TOGGLING_CC_MODULE" = "CC Modul umschaltet wird (Experimentell)";
 
   "CUSTOM_STRENGTH_SETTINGS" = "Eigene Stärkeeinstellungen";
 

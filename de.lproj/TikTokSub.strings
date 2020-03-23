@@ -1,24 +1,24 @@
 {
 
-  "ENABLE_TIKTOK_SUPPORT" = "Enable TikTok Support";
-  "TIKTOK_SUPPORT" = "TikTok Support";
+  "ENABLE_TIKTOK_SUPPORT" = "Aktiviere TikTok Unterstützung";
+  "TIKTOK_SUPPORT" = "TikTok Unterstützung";
 
-  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+  "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
 
-  "TAPPING_LIKE_COMMENT_OR_SHARE" = "Tapping Like, Comment Or Share";
+  "TAPPING_LIKE_COMMENT_OR_SHARE" = "Like, Kommentieren oder Teilen getippt wird";
 
-  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+  "CUSTOM_STRENGTH_SETTINGS" = "Eigene Stärkeeinstellungen";
 
-  "CUSTOM_LIKE_COMMENT_SHARE_BUTTON_STRENGTH" = "Custom Like, Comment, Share Button Strength";
+  "CUSTOM_LIKE_COMMENT_SHARE_BUTTON_STRENGTH" = "Eigene Like, Kommentieren, Teilen Knopf Stärke";
 
-  "NONE" = "None";
-  "LIGHT_HAPTIC_ENGINE" = "Light: Haptic Engine";
+  "NONE" = "Nichts";
+  "LIGHT_HAPTIC_ENGINE" = "Leicht: Haptic Engine";
   "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
-  "HEAVY_HAPTIC_ENGINE" = "Heavy: Haptic Engine";
-  "LIGHT_TAPTIC_ENGINE" = "Light: Taptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Stark: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Leicht: Taptic Engine";
   "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
-  "STRONG_TAPTIC_ENGINE" = "Strong: Taptic Engine";
-  "SOFT_TAPTIC_ENGINE" = "Soft: Taptic Engine";
-  "RIGID_TAPTIC_ENGINE" = "Rigid: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Stark: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Sanft: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Starr: Taptic Engine";
 
 }

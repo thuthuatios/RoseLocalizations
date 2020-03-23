@@ -1,44 +1,44 @@
 {
 
-  "ENABLE_SPOTIFY_SUPPORT" = "Enable Spotify Support";
-  "SPOTIFY_SUPPORT" = "Spotify Support";
+  "ENABLE_SPOTIFY_SUPPORT" = "Aktiviere Spotify Unterstützung";
+  "SPOTIFY_SUPPORT" = "Spotify Unterstützung";
 
-  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+  "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
 
-  "RESUMING_OR_PAUSING_SONG" = "Resuming/Pausing Song";
-  "MINI_PLAYER_RESUMING_OR_PAUSING_SONG" = "Mini-Player Resuming/Pausing Song";
-  "GOING_TO_PREVIOUS_SONG" = "Going To Previous Song";
-  "SKIPPING_SONG" = "Skipping Song";
-  "TAPPING_REPEAT_BUTTON" = "Tapping Repeat Button";
-  "TAPPING_SHUFFLE_BUTTON" = "Tapping Shuffle Button";
-  "TAPPING_QUEUE_BUTTON" = "Tapping Queue Button";
-  "USING_TIME_SLIDER" = "Using Time Slider";
-  "TAPPING_LIKE_BUTTON" = "Tapping Like Button";
-  "TAPPING_DEVICES_BUTTON" = "Tapping Devices Button";
-  "TAPPING_SONG_LABEL" = "Tapping Song Label";
+  "RESUMING_OR_PAUSING_SONG" = "Song fortgesetzt/pausiert wird";
+  "MINI_PLAYER_RESUMING_OR_PAUSING_SONG" = "Song mit dem Mini-Player fortgesetzt/pausiert wird";
+  "GOING_TO_PREVIOUS_SONG" = "zum vorherigen Song gegangen wird";
+  "SKIPPING_SONG" = "Song übersprungen wird";
+  "TAPPING_REPEAT_BUTTON" = "Wiederholenknopf getippt wird";
+  "TAPPING_SHUFFLE_BUTTON" = "Shuffleknopf getippt wird";
+  "TAPPING_QUEUE_BUTTON" = "Warteschleifeknopf getippt wird";
+  "USING_TIME_SLIDER" = "Zeitslider verwendet wird";
+  "TAPPING_LIKE_BUTTON" = "Likeknopf getippt wird";
+  "TAPPING_DEVICES_BUTTON" = "Geräteknopf getippt wird";
+  "TAPPING_SONG_LABEL" = "Songname getippt wird";
 
-  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+  "CUSTOM_STRENGTH_SETTINGS" = "Eigene Stärkeeinstellungen";
 
-  "CUSTOM_PLAY_BUTTON_STRENGTH" = "Custom Play Button Strength";
-  "CUSTOM_MINI_PLAYER_PLAY_BUTTON_STRENGTH" = "Custom Mini Player Play Button Strength";
-  "CUSTOM_PREVIOUS_TRACK_BUTTON_STRENGTH" = "Custom Previous Button Strength";
-  "CUSTOM_SKIP_BUTTON_STRENGTH" = "Custom Skip Button Strength";
-  "CUSTOM_REPEAT_BUTTON_STRENGTH" = "Custom Repeat Button Strength";
-  "CUSTOM_SHUFFLE_BUTTON_STRENGTH" = "Custom Shuffle Button Strength";
-  "CUSTOM_QUEUE_BUTTON_STRENGTH" = "Custom Queue Button Strength";
-  "CUSTOM_TIME_SLIDER_STRENGTH" = "Custom Time Slider Strength";
-  "CUSTOM_LIKE_BUTTON_STRENGTH" = "Custom Like Button Strength";
-  "CUSTOM_DEVICES_BUTTON_STRENGTH" = "Custom Devices Button Strength";
-  "CUSTOM_LABEL_STRENGTH" = "Custom Label Strength";
+  "CUSTOM_PLAY_BUTTON_STRENGTH" = "Eigene Abspielenknopf Stärke";
+  "CUSTOM_MINI_PLAYER_PLAY_BUTTON_STRENGTH" = "Eigene Mini-Player Abspielenknopf Stärke";
+  "CUSTOM_PREVIOUS_TRACK_BUTTON_STRENGTH" = "Eigene vorherigen Knopf Stärke";
+  "CUSTOM_SKIP_BUTTON_STRENGTH" = "Eigene Überspringenknopf Stärke";
+  "CUSTOM_REPEAT_BUTTON_STRENGTH" = "Eigene Wiederholenknopf Stärke";
+  "CUSTOM_SHUFFLE_BUTTON_STRENGTH" = "Eigene Shuffleknopf Stärke";
+  "CUSTOM_QUEUE_BUTTON_STRENGTH" = "Eigene Warteschleifeknopf Stärke";
+  "CUSTOM_TIME_SLIDER_STRENGTH" = "Eigene Zeitslider Stärke";
+  "CUSTOM_LIKE_BUTTON_STRENGTH" = "Eigene Likeknopf Stärke";
+  "CUSTOM_DEVICES_BUTTON_STRENGTH" = "Eigene Geräteknopf Stärke";
+  "CUSTOM_LABEL_STRENGTH" = "Eigene Songname Stärke";
 
-  "NONE" = "None";
-  "LIGHT_HAPTIC_ENGINE" = "Light: Haptic Engine";
+  "NONE" = "Nichts";
+  "LIGHT_HAPTIC_ENGINE" = "Leicht: Haptic Engine";
   "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
-  "HEAVY_HAPTIC_ENGINE" = "Heavy: Haptic Engine";
-  "LIGHT_TAPTIC_ENGINE" = "Light: Taptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Stark: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Leicht: Taptic Engine";
   "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
-  "STRONG_TAPTIC_ENGINE" = "Strong: Taptic Engine";
-  "SOFT_TAPTIC_ENGINE" = "Soft: Taptic Engine";
-  "RIGID_TAPTIC_ENGINE" = "Rigid: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Stark: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Sanft: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Starr: Taptic Engine";
 
 }

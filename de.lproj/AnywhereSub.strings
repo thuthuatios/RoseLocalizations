@@ -5,16 +5,16 @@
 
   "HAPTIC_FEEDBACK_WHEN" = "Haptisches Feedback wenn...";
 
-  "KILLING_APP" = "App beenden";
-  "APP_SWITCHER_IS_USED" = "App Switcher wird verwendet";
-  "CALLING_SIRI" = "Siri rufen";
-  "TAKING_SCREENSHOT" = "Bildschirmfoto machen";
-  "BEGIN_OR_END_REACHABILITY" = "Erreichbarkeit starten / beenden";
-  "USING_TEXT_SELECTION" = "Textauswahl wird verwendet";
-  "ENTERING_POWER_DOWN_VIEW" = "Betrete Ausschaltbildschirm";
+  "KILLING_APP" = "App beendet wird";
+  "APP_SWITCHER_IS_USED" = "App Switcher verwendet wird";
+  "CALLING_SIRI" = "Siri gerufen wird";
+  "TAKING_SCREENSHOT" = "Bildschirmfoto gemachet wird";
+  "BEGIN_OR_END_REACHABILITY" = "Erreichbarkeit gestartet / beendet wird";
+  "USING_TEXT_SELECTION" = "Textauswahl verwendet wird";
+  "ENTERING_POWER_DOWN_VIEW" = "Ausschaltbildschirm betreten wird";
   "RESPRINING" = "Respringing";
-  "TYPING" = "Schreiben";
-  "ENTERING_HOMESCREEN" = "Homescreen betreten";
+  "TYPING" = "Geschrieben Wird";
+  "ENTERING_HOMESCREEN" = "Homescreen betreten wird";
   "ALERT_APPEARS" = "Alarm erscheint";
   "ALERT_DISAPPEARS" = "Alarm verschwindet";
 
