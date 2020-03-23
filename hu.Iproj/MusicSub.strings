@@ -13,7 +13,7 @@
   "TAPPING_LIBRARY_CELL" = "Könyvtár Részleg Megnyomásakor";
   "TAPPING_ALBUM_CELL" = "Album Részleg Megnyomásakor";
   "TAPPING_AIRPLAY_BUTTON" = "Airplay Gomb Megnyomásakor";
-  "TAPPING_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON" = "Dalszöveg, Sorban Áll, Lejátszás, Átugrás, Elöző Gombok Megnyomásakor";
+  "TAPPING_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON" = "Dalszöveg, Sorban Áll, Lejátszás, Átugrás, Előző Gombok Megnyomásakor";
 
   "CUSTOM_STRENGTH_SETTINGS" = "Erősség Beállítása";
 
@@ -25,7 +25,7 @@
   "CUSTOM_LIBRARY_CELL_STRENGTH" = "Könyvtár Részleg Megnyomásakor";
   "CUSTOM_ALBUM_CELL_STRENGTH" = "Album Részleg Megnyomásakor";
   "CUSTOM_AIRPLAY_BUTTON_STRENGTH" = "Airplay Gomb Megnyomásakor";
-  "CUSTOM_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON_STRENGTH" = "Dalszöveg, Sorban Áll, Lejátszás, Átugrás, Elöző Gombok Megnyomásakor";
+  "CUSTOM_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON_STRENGTH" = "Dalszöveg, Sorban Áll, Lejátszás, Átugrás, Előző Gombok Megnyomásakor";
 
   "NONE" = "Egyik Sem";
   "LIGHT_HAPTIC_ENGINE" = "Könnyű: Haptic Engine";
