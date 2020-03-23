@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_STATUS_CHANGES_SECTION" = "Állapotváltozások Részleg";
+  "ENABLE_SECTION" = "Részleg Bekapcsolása";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszajelzés..";
+
+  "UNLOCKED_OR_NC" = "Feloldott";
+  "LOCKED" = "Lezárt";
+  "AUTHENTICATED_WITH_TOUCH_OR_FACEID" = "Hitelesítés Touch/FaceID-val";
+  "CALLL_CONNECTS_OR_DISCONNECTS" = "Call Connects/Disconnects";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Erősségek Beállítása";
+
+  "CUSTOM_UNLOCK_STRENGTH" = "Feloldott";
+  "CUSTOM_LOCK_STRENGTH" = "Lezárt";
+  "CUSTOM_AUTHETICATION_STRENGTH" = "Hitelesítés";
+  "CUSTOM_CALL_STRENGTH" = "Hívás";
+
+  "NONE" = "Egyik Sem";
+  "LIGHT_HAPTIC_ENGINE" = "Könnyű: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Közepes: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Nehéz: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Könnyű: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Közepes: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Erős: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lágy: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Szigorú: Taptic Engine";
+
+}
