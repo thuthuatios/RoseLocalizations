@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_SYSTEM_WIDE_SECTION" = "Egész Rendszerre Kiterjedõ Részleg Bekapcsolása";
+  "ENABLE_SECTION" = "Részleg Bekapcsolása";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszalyelzés Amikor..";
+
+  "TAPPING_UIBUTTON" = "UIButton Megnyomása";
+  "TAPPING_UIBUTTONBARBUTTON" = "UIButtonBarButton Megnyomása";
+  "TAPPING_UITABBARBUTTON" = "UITabBarButton Megnyomása";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Egyéni Erősség Beállítása";
+
+  "CUSTOM_UIBUTTON_STRENGTH" = "Egyedi UIButton Erősség";
+  "CUSTOM_UIBUTTONBARBUTTON_STRENGTH" = "Egyedi UIButtonBarButton Erősség";
+  "CUSTOM_UITABBARBUTTON_STRENGTH" = "Egyedi UITabBarButton Erősség";
+
+  "NONE" = "None";
+  "LIGHT_HAPTIC_ENGINE" = "Könnyű: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Közepes: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Nehéz: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Könnyű: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Közepes: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Erős: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lágy: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Szigorú: Taptic Engine";
+
+}
