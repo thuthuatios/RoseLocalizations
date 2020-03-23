@@ -12,17 +12,17 @@
 
   "CUSTOM_STRENGTH_SETTINGS" = "Eigene Stärkeeinstellungen";
 
-  "CUSTOM_UNLOCK_STRENGTH" = "Eigene Entsperren Stärke";
-  "CUSTOM_LOCK_STRENGTH" = "Eigene Sperren Stärke";
-  "CUSTOM_AUTHETICATION_STRENGTH" = "Eigene Authentifizierung Stärke";
-  "CUSTOM_CALL_STRENGTH" = "Eigene Anruf Stärke";
+  "CUSTOM_UNLOCK_STRENGTH" = "Eigene Entsperrungsstärke";
+  "CUSTOM_LOCK_STRENGTH" = "Eigene Sperrungsstärke";
+  "CUSTOM_AUTHETICATION_STRENGTH" = "Eigene Authentifizierungsstärke";
+  "CUSTOM_CALL_STRENGTH" = "Eigene Anrufsstärke";
 
   "NONE" = "Nichts";
   "LIGHT_HAPTIC_ENGINE" = "Leicht: Haptic Engine";
-  "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Mittel: Haptic Engine";
   "HEAVY_HAPTIC_ENGINE" = "Stark: Haptic Engine";
   "LIGHT_TAPTIC_ENGINE" = "Leicht: Taptic Engine";
-  "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Mittel: Taptic Engine";
   "STRONG_TAPTIC_ENGINE" = "Stark: Taptic Engine";
   "SOFT_TAPTIC_ENGINE" = "Sanft: Taptic Engine";
   "RIGID_TAPTIC_ENGINE" = "Starr: Taptic Engine";
