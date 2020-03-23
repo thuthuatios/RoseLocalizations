@@ -3,7 +3,7 @@
   "ENABLE_SYSTEM_WIDE_SECTION" = "Egész Rendszerre Kiterjedõ Részleg";
   "ENABLE_SECTION" = "Részleg Bekapcsolása";
 
-  "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszalyelzés..";
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Visszajelzés..";
 
   "TAPPING_UIBUTTON" = "UIButton Megnyomásakor";
   "TAPPING_UIBUTTONBARBUTTON" = "UIButtonBarButton Megnyomásakor";
