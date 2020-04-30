@@ -16,6 +16,7 @@
   "TAPPING_LIKE_BUTTON" = "Nhấn vào nút thích";
   "TAPPING_DEVICES_BUTTON" = "Nhấn vào nút thiết bị";
   "TAPPING_SONG_LABEL" = "Nhấn vào tên bài hát";
+  "TAPPING_PLAYLIST_BUTTONS" = "Nhấn vào nút DS phát";
 
   "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
 
@@ -30,6 +31,7 @@
   "CUSTOM_LIKE_BUTTON_STRENGTH" = "Khi nhấn vào nút thích";
   "CUSTOM_DEVICES_BUTTON_STRENGTH" = "Khi nhấn vào nút thiết bị";
   "CUSTOM_LABEL_STRENGTH" = "Khi nhấn vào tên bài hát";
+  "CUSTOM_PLAYLIST_BUTTONS_STRENGTH" = "Khi nhấn vào nút DS phát";
 
   "NONE" = "Không";
   "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
